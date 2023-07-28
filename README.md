@@ -1,1 +1,3 @@
 # odin-recipes
+
+<p>Welcome to Odin Recipes! Here you will find a carefully curated collection of our favorite, tried and tested recipes from around the world. Each recipe is clearly written, easy to follow, and ideal for cooks of all skill levels, from beginners to seasoned chefs. Our aim is to make cooking a pleasurable experience by sharing a delightful array of dishes that anyone, regardless of dietary preferences, can enjoy. From savory mains, to sweet desserts, and everything in between, you definitely won't be running out of meal ideas anytime soon. So grab your apron and start exploring our delicious recipes. Happy cooking!</p>
